@@ -4,7 +4,7 @@ Program Repository for "Unlocking Extreme Space Weather through Advanced Modelin
 This repository will contain all open source code developed for the studies, experiments, and publications for the Exploratory Research project entitled, "Unlocking Extreme Space Weather through Advanced Modeling of Legacy Vela Spacecraft." This project began in Fiscal Year 2025 at Los Alamos National Lab under the Laboratory Directed Research and Development (LDRD) program.  The project lead is:
 * Katherine Mesick (PI) <kmesick@lanl.gov>
 
-For questions, issues, or clarifications on individual projects, please contact Murph <murph@lanl.gov>.
+For questions, issues, or clarifications on individual projects, please contact Murph at <murph@lanl.gov>.
 
 ## Release
 
